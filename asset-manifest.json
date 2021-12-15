@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/QLF/static/css/main.d75ca1ab.chunk.css",
+    "main.js": "/QLF/static/js/main.502e676f.chunk.js",
+    "main.js.map": "/QLF/static/js/main.502e676f.chunk.js.map",
+    "runtime-main.js": "/QLF/static/js/runtime-main.7f0724af.js",
+    "runtime-main.js.map": "/QLF/static/js/runtime-main.7f0724af.js.map",
+    "static/js/2.ab2fbe11.chunk.js": "/QLF/static/js/2.ab2fbe11.chunk.js",
+    "static/js/2.ab2fbe11.chunk.js.map": "/QLF/static/js/2.ab2fbe11.chunk.js.map",
+    "index.html": "/QLF/index.html",
+    "static/css/main.d75ca1ab.chunk.css.map": "/QLF/static/css/main.d75ca1ab.chunk.css.map",
+    "static/js/2.ab2fbe11.chunk.js.LICENSE.txt": "/QLF/static/js/2.ab2fbe11.chunk.js.LICENSE.txt",
+    "static/media/91s.ed08ea75.jpg": "/QLF/static/media/91s.ed08ea75.jpg",
+    "static/media/DeuxFreres.css": "/QLF/static/media/nos2.ca162fc5.jpg",
+    "static/media/alammoniaque.94596f8b.jpg": "/QLF/static/media/alammoniaque.94596f8b.jpg",
+    "static/media/auDD.a638f249.jpg": "/QLF/static/media/auDD.a638f249.jpg",
+    "static/media/dansLaLegrnde.2938f63b.jpg": "/QLF/static/media/dansLaLegrnde.2938f63b.jpg",
+    "static/media/deuxfrere.a8190627.jpg": "/QLF/static/media/deuxfrere.a8190627.jpg",
+    "static/media/header.css": "/QLF/static/media/headerCover.d37dba95.jfif",
+    "static/media/ladif.2d8f4bb7.jpg": "/QLF/static/media/ladif.2d8f4bb7.jpg",
+    "static/media/lemondechico.e9278ddd.jpg": "/QLF/static/media/lemondechico.e9278ddd.jpg",
+    "static/media/section.css": "/QLF/static/media/logo2.ef0140a4.png",
+    "static/media/pnl1.09ae7c73.png": "/QLF/static/media/pnl1.09ae7c73.png",
+    "static/media/qlf.437afe7d.jpg": "/QLF/static/media/qlf.437afe7d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f0724af.js",
+    "static/js/2.ab2fbe11.chunk.js",
+    "static/css/main.d75ca1ab.chunk.css",
+    "static/js/main.502e676f.chunk.js"
+  ]
+}
