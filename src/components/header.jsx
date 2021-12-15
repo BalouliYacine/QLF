@@ -10,8 +10,8 @@ function Header() {
 
       <div className="headerbtn">
         <div className="leftbtn">
-          <a>Albums</a>
-          <a>Deux freres</a>
+          <a href="#DeuxFreres">Deux freres</a>
+          <a href="#albums">Albums</a>
         </div>
         <div className="rightbtn">
           <a href="#section">About</a>

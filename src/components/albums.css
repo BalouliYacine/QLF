@@ -1,0 +1,93 @@
+.album {
+  padding: 5% 0;
+  background-color: black;
+  padding-bottom: 0;
+}
+.albumsup {
+  padding: 5% 15%;
+  padding-top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 30vh;
+  color: #e1dedb;
+  line-height: 2;
+}
+.albumsup h2 {
+  font-size: 2rem;
+  margin-bottom: 3rem;
+  border: 2px solid #e1dedb;
+  display: inline-block;
+  padding: 5px 10px;
+}
+.albumsup h3 {
+  font-size: 2rem;
+  font-family: "Lobster", cursive;
+  text-align: center;
+  margin: 1.5rem;
+}
+.albumsup p {
+  text-align: center;
+  font-size: 1.2rem;
+}
+/* To Re-Do */
+.albumsimgs {
+  display: flex;
+  align-items: center;
+  width: 1200px;
+  justify-content: flex-start;
+  flex-wrap: nowrap;
+  animation: sliderimg 35s infinite alternate;
+}
+.albumsimgs:hover {
+  animation-play-state: paused;
+}
+@keyframes sliderimg {
+  0% {
+    transform: translateX(0%);
+  }
+
+  100% {
+    transform: translateX(-150%);
+  }
+}
+.albumsimgs .img {
+  margin: 10px;
+  width: 25%;
+  position: relative;
+}
+.img::before {
+  z-index: 3;
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.376);
+  transition: all 0.5s ease-in-out;
+}
+.img:hover::before {
+  background-color: rgba(0, 0, 255, 0);
+}
+/*  */
+.lstbtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.lstbtn a {
+  text-decoration: none;
+  font-size: 2rem;
+  margin: 1.5rem;
+  background-color: #e1dedbc4;
+  color: black;
+  border: 2px solid #e1dedb;
+  display: inline-block;
+  padding: 5px 10px;
+  transition: all 0.3s ease-in-out;
+  border-radius: 10px;
+}
+.lstbtn a:hover {
+  color: #e1dedb;
+  background-color: black;
+}
