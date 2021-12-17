@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/QLF/static/css/main.3c6f8806.css",
+    "main.css": "/QLF/static/css/main.9cb5c6ac.css",
     "main.js": "/QLF/static/js/main.37104f51.js",
     "static/media/headerCover.jfif": "/QLF/static/media/headerCover.d37dba95771c383b4f67.jfif",
     "static/media/logo2.png": "/QLF/static/media/logo2.ef0140a4fbe7b7fe2ec3.png",
@@ -16,11 +16,11 @@
     "static/media/qlf.jpg": "/QLF/static/media/qlf.437afe7d05c4055d0675.jpg",
     "static/media/ladif.jpg": "/QLF/static/media/ladif.2d8f4bb7e6b09d303223.jpg",
     "index.html": "/QLF/index.html",
-    "main.3c6f8806.css.map": "/QLF/static/css/main.3c6f8806.css.map",
+    "main.9cb5c6ac.css.map": "/QLF/static/css/main.9cb5c6ac.css.map",
     "main.37104f51.js.map": "/QLF/static/js/main.37104f51.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c6f8806.css",
+    "static/css/main.9cb5c6ac.css",
     "static/js/main.37104f51.js"
   ]
 }
