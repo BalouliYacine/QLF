@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/QLF/static/css/main.6c7ccbaa.css",
-    "main.js": "/QLF/static/js/main.a1e38a41.js",
+    "main.css": "/QLF/static/css/main.37c030a0.css",
+    "main.js": "/QLF/static/js/main.05cb33fb.js",
     "static/media/headerCover.jpg": "/QLF/static/media/headerCover.b83624a3e3f45e0f5e01.jpg",
     "static/media/ademo2.jpg": "/QLF/static/media/ademo2.8ba9feb3594c96d99127.jpg",
     "static/media/nos2.jpg": "/QLF/static/media/nos2.6bf65ad17cf465c9da73.jpg",
@@ -16,11 +16,11 @@
     "static/media/ladif.jpg": "/QLF/static/media/ladif.2d8f4bb7e6b09d303223.jpg",
     "static/media/logo2.jpg": "/QLF/static/media/logo2.4c842a10117212a52f1c.jpg",
     "index.html": "/QLF/index.html",
-    "main.6c7ccbaa.css.map": "/QLF/static/css/main.6c7ccbaa.css.map",
-    "main.a1e38a41.js.map": "/QLF/static/js/main.a1e38a41.js.map"
+    "main.37c030a0.css.map": "/QLF/static/css/main.37c030a0.css.map",
+    "main.05cb33fb.js.map": "/QLF/static/js/main.05cb33fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c7ccbaa.css",
-    "static/js/main.a1e38a41.js"
+    "static/css/main.37c030a0.css",
+    "static/js/main.05cb33fb.js"
   ]
 }
